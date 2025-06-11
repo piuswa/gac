@@ -1,0 +1,17 @@
+version: "3.8"
+
+services:
+  git-server:
+    build: .
+    container_name: git-server
+    volumes:
+      - git-data:/home/git/repo
+      - ssh-keys:/home/git/.ssh
+      - ssh-data:/etc/ssh/
+    ports:
+      - "2222:22"
+
+volumes:
+  git-data:
+  ssh-keys:
+  ssh-data:
