@@ -1,6 +1,6 @@
 # SSH-based Access Control for Git Using Git
 
-This software was developed for a bachelors thesis at the University of Basel. The completed thesis can be found in [this repository](/SSH-based%20Access%20Control%20for%20Git%20Using%20Git.pdf) and and the [Website of the Computer Networks](https://cn.dmi.unibas.ch/en/projects/) group of the University of Basel under "Completed Bachelor Projects"
+This software was developed for a bachelors thesis at the University of Basel. The completed thesis can be found in [this repository](/SSH-based%20Access%20Control%20for%20Git%20Using%20Git.pdf) and the [website of the Computer Networks group](https://cn.dmi.unibas.ch/en/projects/) of the University of Basel under "Completed Bachelor Projects"
 
 ## Introduction
 
