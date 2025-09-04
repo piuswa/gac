@@ -1,6 +1,6 @@
-# SSH-based Access Control of Server-Hosted Replicas for Git-based Applications
+# SSH-based Access Control for Git using Git
 
-This software was developed for a bachelors thesis at the University of Basel.
+This software was developed for a bachelors thesis at the University of Basel. The completed thesis can be found in [this repository](/SSH-based%20Access%20Control%20for%20Git%20using%20Git.pdf) and and the [Website of the Computer Networks](https://cn.dmi.unibas.ch/en/projects/) group of the University of Basel under "Completed Bachelor Projects"
 
 ## Introduction
 
